@@ -1,0 +1,17 @@
+shades of cyan 
+#c5f6fa
+#66d9e8
+#22b8cf
+
+
+shades of blue
+#d0ebff
+#74c0fc
+#339af0
+#1c7ed6
+
+#fff5f5
+#ffa8a8
+#fa5252
+#e03131
+#c92a2a

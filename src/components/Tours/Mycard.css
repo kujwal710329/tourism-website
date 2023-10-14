@@ -1,0 +1,28 @@
+.card {
+  width: 157px;
+  height: 157px;
+  overflow: hidden;
+  position: relative;
+}
+
+.card img {
+  display: block;
+  width: 100%;
+  transition: all 0.4s;
+  opacity: 0.8;
+}
+
+.card img:hover {
+  transform: scale(1.1);
+}
+
+.city-name {
+  position: absolute;
+  top: 5px;
+  left: 10%;
+  font-weight: 700;
+  font-size: 16px;
+  color: #bc0f0f;
+  text-transform: uppercase;
+  /* justify-content: center; */
+}

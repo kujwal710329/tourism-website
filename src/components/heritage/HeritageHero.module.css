@@ -1,0 +1,24 @@
+.img-container {
+  margin-top: 5rem;
+  position: relative;
+}
+
+.city-img {
+  width: 90%;
+  height: 60vh;
+  margin-left: 5%;
+}
+.img-container img {
+  opacity: 0.75;
+}
+
+.city-name {
+  position: absolute;
+  top: 40%;
+  left: 40%;
+  font-weight: 700;
+  font-size: 32px;
+  color: #bc0f0f;
+  text-transform: uppercase;
+  /* justify-content: center; */
+}

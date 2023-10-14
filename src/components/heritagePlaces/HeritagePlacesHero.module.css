@@ -1,0 +1,21 @@
+.heritage-places-hero {
+  margin-top: 4rem;
+
+  /* position: relative; */
+  width: 100%;
+  margin-bottom: 2rem;
+}
+
+.places-hero-inner {
+  /* width: 100%; */
+  /* overflow: hidden; */
+  /* display: block; */
+}
+
+.places-hero-inner video {
+  /* position: absolute; */
+  padding: 1rem;
+  margin-left: 2.5%;
+  width: 95%;
+  height: 600px;
+}

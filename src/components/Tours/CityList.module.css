@@ -1,0 +1,21 @@
+.city {
+  width: 80%;
+  margin: 3rem auto;
+}
+
+.container {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;
+  gap: 4rem 2rem;
+}
+
+.heading-secondary {
+  font-weight: 700;
+  color: #c92a2a;
+
+  letter-spacing: -0.5px;
+  font-size: 1.8rem;
+  line-height: 1.2;
+  /* margin-top: 5.2rem; */
+  margin-bottom: 2rem;
+}
